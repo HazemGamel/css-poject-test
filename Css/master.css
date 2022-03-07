@@ -1,0 +1,34 @@
+.container{
+   width: 1170px;
+   margin: auto;
+
+}
+body{
+    background-color: #888;
+}
+.header .slider .container{
+    background-color: #EEE;
+    height: 300px;
+}
+.navbar span{
+ background-color: green;
+}
+.navbar h2{
+  float: left;
+}
+.navbar .container{
+    background-color: #252f31;
+    overflow: hidden;
+    text-transform: uppercase;
+    color: #fff;
+}
+.navbar ul{
+    list-style: none;
+    float: right;
+    overflow: hidden ;
+    padding: 0px;
+}
+.navbar ul li{
+    float: left;
+    padding: 10px;
+}
